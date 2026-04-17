@@ -1,0 +1,19 @@
+@{
+    ViewData["Title"] = ViewData["PageTitle"];
+    var services = ViewBag.Services as (string Name, int Price)[];
+    if (services == null) { services = Array.Empty<(string, int)>(); }
+}
+
+<h1>@ViewData["PageTitle"]</h1>
+
+<table>
+    <tr><th>Услуга</th><th>Цена, ₽</th></tr>
+    @foreach (var s in services)
+    {
+        <tr><td>@s.Name</td><td>@s.Price</td></tr>
+    }
+</table>
+
+<hr />
+<a href="/Healthcare/Doctors">Врачи</a> |
+<a href="/Healthcare/Appointment">Запись на приём</a>

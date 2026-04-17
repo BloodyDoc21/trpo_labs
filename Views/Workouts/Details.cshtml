@@ -1,0 +1,44 @@
+@model laba1.Models.Workout
+@{
+	ViewData["Title"] = "Детали тренировки";
+}
+<h1>Детали тренировки</h1>
+<div>
+	<hr />
+	<dl class="row">
+		<dt class="col-sm-3">@Html.DisplayNameFor(model => model.Id)</dt>
+		<dd class="col-sm-9">@Html.DisplayFor(model => model.Id)</dd>
+		<dt class="col-sm-3">@Html.DisplayNameFor(model => model.Name)</dt>
+		<dd class="col-sm-9">@Html.DisplayFor(model => model.Name)</dd>
+		<dt class="col-sm-3">@Html.DisplayNameFor(model => model.Type)</dt>
+		<dd class="col-sm-9">@Html.DisplayFor(model => model.Type)</dd>
+		<dt class="col-sm-3">@Html.DisplayNameFor(model => model.Duration)</dt>
+		<dd class="col-sm-9">@Html.DisplayFor(model => model.Duration) мин</dd>
+		<dt class="col-sm-3">@Html.DisplayNameFor(model => model.Calories)</dt>
+		<dd class="col-sm-9">@Html.DisplayFor(model => model.Calories)</dd>
+		<dt class="col-sm-3">@Html.DisplayNameFor(model => model.Difficulty)</dt>
+		<dd class="col-sm-9">@Html.DisplayFor(model => model.Difficulty)</dd>
+		<dt class="col-sm-3">@Html.DisplayNameFor(model => model.Instructor)</dt>
+		<dd class="col-sm-9">@Html.DisplayFor(model => model.Instructor)</dd>
+		<dt class="col-sm-3">@Html.DisplayNameFor(model => model.Date)</dt>
+		<dd class="col-sm-9">@Model.Date.ToString("dd.MM.yyyy")</dd>
+	</dl>
+</div>
+<div class="row mt-4">
+	<div class="col-md-6">
+		<div class="card">
+			<div class="card-header">
+				<h5>Интенсивность</h5>
+			</div>
+			<div class="card-body">
+				<p>Интенсивность (калории/минута): <strong>@Model.GetIntensity().ToString("F2")</strong> ккал/мин</p>
+				<p class="text-muted">Расчёт: @Model.Calories ккал ÷ @Model.Duration мин</p>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="mt-4">
+	<a asp-action="Edit" asp-route-id="@Model.Id" class="btn btn-warning">Редактировать</a>
+	<a asp-action="Index" class="btn btn-secondary">Назад к списку</a>
+	<a asp-action="Delete" asp-route-id="@Model.Id" class="btn btn-danger float-end">Удалить</a>
+</div>

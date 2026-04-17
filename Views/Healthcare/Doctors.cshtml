@@ -1,0 +1,25 @@
+@{
+    ViewData["Title"] = ViewData["PageTitle"];
+    var doctors = ViewBag.Doctors as laba1.Models.Doctor[];
+}
+
+<h1>@ViewData["PageTitle"]</h1>
+
+@if (doctors != null && doctors.Length > 0)
+{
+    <ul>
+        @foreach (var d in doctors)
+        {
+            <li>
+                @d.Name — @d.Specialization, стаж @d.ExperienceYears лет
+                <a href="/Healthcare/Doctor?doctorId=@d.Id">Подробнее</a>
+                <a href="/Healthcare/Appointment">Записаться</a>
+            </li>
+        }
+    </ul>
+}
+else
+{
+    <p>Список пуст</p>
+}
+    

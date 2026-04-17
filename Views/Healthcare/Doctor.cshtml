@@ -1,0 +1,23 @@
+@{
+    ViewData["Title"] = ViewData["PageTitle"];
+    var specialization = ViewData["Specialization"]?.ToString() ?? "";
+    var experienceYears = ViewData["ExperienceYears"] is int y ? y : 0;
+    var doctor = ViewBag.Doctor;
+}
+
+@if (doctor == null)
+{
+    <p>Врач не найден.</p>
+    <a href="/Healthcare/Doctors">К списку врачей</a>
+}
+else
+{
+    <h1>@doctor.Name</h1>
+    <ul>
+        <li><strong>Специализация:</strong> @specialization</li>
+        <li><strong>Стаж:</strong> @experienceYears лет</li>
+    </ul>
+    <p>Специализация и стаж переданы через ViewData.</p>
+    <a href="/Healthcare/Appointment">Записаться на приём</a> 
+    <a href="/Healthcare/Doctors">К списку врачей</a>
+}

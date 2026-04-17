@@ -1,0 +1,33 @@
+@{
+    ViewData["Title"] = ViewData["PageTitle"];
+    var doctors = ViewBag.Doctors as laba1.Models.Doctor[] ?? Array.Empty<laba1.Models.Doctor>();
+}
+
+
+<h1>Запись на приём</h1>
+
+<form method="get" action="#">
+    <p>
+        <label for="patientName">ФИО:</label><br />
+        <input type="text" id="patientName" name="patientName" />
+    </p>
+    <p>
+        <label for="phone">Телефон:</label><br />
+        <input type="text" id="phone" name="phone" />
+    </p>
+    <p>
+        <label for="doctorId">Врач:</label><br />
+        <select id="doctorId" name="doctorId">
+            <option value="">— Выберите врача —</option>
+            @foreach (var d in doctors)
+            {
+                <option value="@d.Id">@d.Name (@d.Specialization)</option>
+            }
+        </select>
+    </p>
+    <p><button type="submit">Отправить</button></p>
+</form>
+
+<hr />
+<a href="/Healthcare/Doctors">Врачи</a> |
+<a href="/Healthcare/Services">Услуги</a>

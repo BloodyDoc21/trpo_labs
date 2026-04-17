@@ -1,0 +1,65 @@
+@model laba1.Models.Workout
+@{
+	ViewData["Title"] = "Добавление тренировки";
+}
+<h1>Добавление тренировки</h1>
+<div class="row">
+	<div class="col-md-6">
+		<form asp-action="Create">
+			<div asp-validation-summary="ModelOnly" class="text-danger"></div>
+			<div class="mb-3">
+				<label asp-for="Name" class="form-label"></label>
+				<input asp-for="Name" class="form-control" />
+				<span asp-validation-for="Name" class="text-danger"></span>
+			</div>
+			<div class="mb-3">
+				<label asp-for="Type" class="form-label"></label>
+				<select asp-for="Type" class="form-select">
+					<option value="">— Выберите тип —</option>
+					<option value="Силовая">Силовая</option>
+					<option value="Кардио">Кардио</option>
+					<option value="Йога">Йога</option>
+					<option value="Пилатес">Пилатес</option>
+				</select>
+				<span asp-validation-for="Type" class="text-danger"></span>
+			</div>
+			<div class="mb-3">
+				<label asp-for="Duration" class="form-label"></label>
+				<input asp-for="Duration" class="form-control" type="number" min="5" max="180" />
+				<span asp-validation-for="Duration" class="text-danger"></span>
+			</div>
+			<div class="mb-3">
+				<label asp-for="Calories" class="form-label"></label>
+				<input asp-for="Calories" class="form-control" type="number" min="10" max="2000" />
+				<span asp-validation-for="Calories" class="text-danger"></span>
+			</div>
+			<div class="mb-3">
+				<label asp-for="Difficulty" class="form-label"></label>
+				<select asp-for="Difficulty" class="form-select">
+					<option value="">— Выберите сложность —</option>
+					<option value="Низкая">Низкая</option>
+					<option value="Средняя">Средняя</option>
+					<option value="Высокая">Высокая</option>
+				</select>
+				<span asp-validation-for="Difficulty" class="text-danger"></span>
+			</div>
+			<div class="mb-3">
+				<label asp-for="Instructor" class="form-label"></label>
+				<input asp-for="Instructor" class="form-control" />
+				<span asp-validation-for="Instructor" class="text-danger"></span>
+			</div>
+			<div class="mb-3">
+				<label asp-for="Date" class="form-label"></label>
+				<input asp-for="Date" class="form-control" type="date" />
+				<span asp-validation-for="Date" class="text-danger"></span>
+			</div>
+			<div class="mb-3">
+				<input type="submit" value="Добавить" class="btn btn-primary" />
+				<a asp-action="Index" class="btn btn-secondary">Назад к списку</a>
+			</div>
+		</form>
+	</div>
+</div>
+@section Scripts {
+	@{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+}
