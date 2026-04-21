@@ -1,5 +1,5 @@
 using System.ComponentModel.DataAnnotations;
-namespace MvcLab1.Models
+namespace laba1.Models
 {
     public class Product
     {

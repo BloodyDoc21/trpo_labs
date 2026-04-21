@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using MvcLab1.Models;
-using MvcLab1.Repositories;
-namespace MvcLab1.Controllers
+using laba1.Models;
+using laba1.Repositories;
+namespace laba1.Controllers
 {
     public class ProductsController : Controller
     {

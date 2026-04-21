@@ -1,16 +1,31 @@
 using laba1.Repositories;
-using MvcLab1.Repositories;
+using Microsoft.EntityFrameworkCore;
+using laba1.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// ===== РЕГИСТРАЦИЯ СЕРВИСОВ =====
 builder.Services.AddControllersWithViews();
-builder.Services.AddSingleton<IProductRepository, InMemoryProductRepository>();
-builder.Services.AddSingleton<IWorkoutRepository, InMemoryWorkoutRepository>();
 
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("SQLiteConnection")));
+
+// Используем EF репозиторий (InMemory убираем)
+builder.Services.AddScoped<IProductRepository, EfProductRepository>();
+
+builder.Services.AddScoped<IWorkoutRepository, EfWorkoutRepository>();
+
+// ===== СБОРКА =====
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
+// ===== ИНИЦИАЛИЗАЦИЯ БД =====
+using (var scope = app.Services.CreateScope())
+{
+    var dbContext = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+    await SeedData.InitializeAsync(dbContext);
+}
+
+// ===== MIDDLEWARE =====
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");

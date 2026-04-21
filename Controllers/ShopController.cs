@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace MvcLab1.Controllers
+namespace laba1.Controllers
 {
     // Атрибутная маршрутизация на уровне контроллера
     [Route("store")]

@@ -1,8 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using MvcLab1.Models; //Чтобы видел Product
-namespace MvcLab1.Repositories // Должно быть Repositories, не Models!
+using laba1.Models; //Чтобы видел Product
+namespace laba1.Repositories // Должно быть Repositories, не Models!
 {
     public class InMemoryProductRepository : IProductRepository
     {

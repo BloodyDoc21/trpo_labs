@@ -3,8 +3,45 @@
   "WorkspaceRootPath": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\models\\workout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:models\\workout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BloodyDoc21\\AppData\\Local\\SourceServer\\727bc2c0f939e76efd8981defaef782cc94fd1a47211c5ae371a23dd097905cd\\src\\Servers\\Kestrel\\Core\\src\\Internal\\AddressBinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BloodyDoc21\\AppData\\Local\\SourceServer\\a40217f739fa3c89706a93a3be6c256e423bf343ac2343f4a1bd72eb286c5d8a\\src\\libraries\\Microsoft.Extensions.Configuration.FileExtensions\\src\\FileConfigurationProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BloodyDoc21\\AppData\\Local\\SourceServer\\b9ec2bbc77776e6f496907933a0b213d26284a3b22d3e8002cde84b7abfc891f\\src\\Microsoft.Data.Sqlite.Core\\SqliteException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\workouts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\workouts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\workouts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -15,39 +52,40 @@
       "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\workouts\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\workouts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\workouts\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\workouts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\workouts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\workouts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\workouts\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\workouts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\workouts\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\shop\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\shop\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\repositories\\iworkoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:repositories\\iworkoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\shop\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\shop\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\BloodyDoc21\\AppData\\Local\\SourceServer\\727bc2c0f939e76efd8981defaef782cc94fd1a47211c5ae371a23dd097905cd\\src\\Servers\\Kestrel\\Core\\src\\Internal\\AddressBinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -58,92 +96,100 @@
       "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\repositories\\inmemoryproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:repositories\\inmemoryproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\healthcare\\appointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\healthcare\\appointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\healthcare\\doctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\healthcare\\doctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\healthcare\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\healthcare\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\controllers\\healthcarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:controllers\\healthcarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\healthcare\\doctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\healthcare\\doctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\demo\\userinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\demo\\userinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\shop\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\shop\\category.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\healthcare\\doctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\healthcare\\doctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\healthcare\\appointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\healthcare\\appointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\shop\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\shop\\productdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\demo\\userinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\demo\\userinfo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\demo\\showview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\demo\\showview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\repositories\\iworkoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:repositories\\iworkoutrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\repositories\\inmemoryproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:repositories\\inmemoryproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\models\\workout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:models\\workout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\controllers\\workoutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:controllers\\workoutscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\controllers\\healthcarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:controllers\\healthcarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\healthcare\\doctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\healthcare\\doctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\views\\healthcare\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:views\\healthcare\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|c:\\users\\bloodydoc21\\source\\trpo\\1\\laba1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{55AE2E1F-0FE0-46F6-BB67-B9DB60104AF4}|laba1.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -153,7 +199,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 279,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -161,71 +207,59 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddressBinder.cs",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\AppData\\Local\\SourceServer\\727bc2c0f939e76efd8981defaef782cc94fd1a47211c5ae371a23dd097905cd\\src\\Servers\\Kestrel\\Core\\src\\Internal\\AddressBinder.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\727bc2c0f939e76efd8981defaef782cc94fd1a47211c5ae371a23dd097905cd\\src\\Servers\\Kestrel\\Core\\src\\Internal\\AddressBinder.cs",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\AppData\\Local\\SourceServer\\727bc2c0f939e76efd8981defaef782cc94fd1a47211c5ae371a23dd097905cd\\src\\Servers\\Kestrel\\Core\\src\\Internal\\AddressBinder.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\727bc2c0f939e76efd8981defaef782cc94fd1a47211c5ae371a23dd097905cd\\src\\Servers\\Kestrel\\Core\\src\\Internal\\AddressBinder.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAwwGEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T13:28:34.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Workouts\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Workouts\\Index.cshtml",
-              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Workouts\\Index.cshtml",
-              "RelativeToolTip": "Views\\Workouts\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-13T12:44:43.391Z",
+              "Title": "FileConfigurationProvider.cs",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\AppData\\Local\\SourceServer\\a40217f739fa3c89706a93a3be6c256e423bf343ac2343f4a1bd72eb286c5d8a\\src\\libraries\\Microsoft.Extensions.Configuration.FileExtensions\\src\\FileConfigurationProvider.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\a40217f739fa3c89706a93a3be6c256e423bf343ac2343f4a1bd72eb286c5d8a\\src\\libraries\\Microsoft.Extensions.Configuration.FileExtensions\\src\\FileConfigurationProvider.cs",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\AppData\\Local\\SourceServer\\a40217f739fa3c89706a93a3be6c256e423bf343ac2343f4a1bd72eb286c5d8a\\src\\libraries\\Microsoft.Extensions.Configuration.FileExtensions\\src\\FileConfigurationProvider.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\a40217f739fa3c89706a93a3be6c256e423bf343ac2343f4a1bd72eb286c5d8a\\src\\libraries\\Microsoft.Extensions.Configuration.FileExtensions\\src\\FileConfigurationProvider.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAvwGsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T02:56:25.507Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IWorkoutRepository.cs",
-              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Repositories\\IWorkoutRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IWorkoutRepository.cs",
-              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Repositories\\IWorkoutRepository.cs",
-              "RelativeToolTip": "Repositories\\IWorkoutRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Title": "EfProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Repositories\\EfProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EfProductRepository.cs",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Repositories\\EfProductRepository.cs",
+              "RelativeToolTip": "Repositories\\EfProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T12:26:38.666Z",
+              "WhenOpened": "2026-04-18T02:49:28.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Models\\Doctor.cs",
-              "RelativeDocumentMoniker": "Models\\Doctor.cs",
-              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Models\\Doctor.cs",
-              "RelativeToolTip": "Models\\Doctor.cs",
+              "DocumentIndex": 15,
+              "Title": "ProductDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Shop\\ProductDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shop\\ProductDetails.cshtml",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Shop\\ProductDetails.cshtml",
+              "RelativeToolTip": "Views\\Shop\\ProductDetails.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T12:19:39.988Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Workouts\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Workouts\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Workouts\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Workouts\\Edit.cshtml",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-13T12:13:20.863Z",
+              "WhenOpened": "2026-02-19T08:20:28.92Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Workouts\\Details.cshtml",
-              "RelativeDocumentMoniker": "Views\\Workouts\\Details.cshtml",
-              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Workouts\\Details.cshtml",
-              "RelativeToolTip": "Views\\Workouts\\Details.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-13T12:13:19.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 14,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Workouts\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Workouts\\Delete.cshtml",
@@ -238,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Workouts\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Workouts\\Create.cshtml",
@@ -251,118 +285,280 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Workout.cs",
-              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Models\\Workout.cs",
-              "RelativeDocumentMoniker": "Models\\Workout.cs",
-              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Models\\Workout.cs",
-              "RelativeToolTip": "Models\\Workout.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwCYAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T12:12:43.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAADwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-19T08:18:57.548Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AddressBinder.cs",
-              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\AppData\\Local\\SourceServer\\727bc2c0f939e76efd8981defaef782cc94fd1a47211c5ae371a23dd097905cd\\src\\Servers\\Kestrel\\Core\\src\\Internal\\AddressBinder.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\727bc2c0f939e76efd8981defaef782cc94fd1a47211c5ae371a23dd097905cd\\src\\Servers\\Kestrel\\Core\\src\\Internal\\AddressBinder.cs",
-              "ToolTip": "C:\\Users\\BloodyDoc21\\AppData\\Local\\SourceServer\\727bc2c0f939e76efd8981defaef782cc94fd1a47211c5ae371a23dd097905cd\\src\\Servers\\Kestrel\\Core\\src\\Internal\\AddressBinder.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\727bc2c0f939e76efd8981defaef782cc94fd1a47211c5ae371a23dd097905cd\\src\\Servers\\Kestrel\\Core\\src\\Internal\\AddressBinder.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "SqliteException.cs",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\AppData\\Local\\SourceServer\\b9ec2bbc77776e6f496907933a0b213d26284a3b22d3e8002cde84b7abfc891f\\src\\Microsoft.Data.Sqlite.Core\\SqliteException.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\b9ec2bbc77776e6f496907933a0b213d26284a3b22d3e8002cde84b7abfc891f\\src\\Microsoft.Data.Sqlite.Core\\SqliteException.cs",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\AppData\\Local\\SourceServer\\b9ec2bbc77776e6f496907933a0b213d26284a3b22d3e8002cde84b7abfc891f\\src\\Microsoft.Data.Sqlite.Core\\SqliteException.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\SourceServer\\b9ec2bbc77776e6f496907933a0b213d26284a3b22d3e8002cde84b7abfc891f\\src\\Microsoft.Data.Sqlite.Core\\SqliteException.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAvwFMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T12:28:26.555Z",
+              "WhenOpened": "2026-04-18T02:57:27.037Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-13T12:19:41.815Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T20:08:53.917Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Workouts\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Workouts\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Workouts\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Workouts\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T12:13:20.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-18T02:30:20.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Data\\SeedData.cs",
+              "RelativeToolTip": "Data\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T02:51:41.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-18T02:34:15.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T02:25:07.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-18T02:34:19.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "Views\\Shop\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-19T08:20:12.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Category.cshtml",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Shop\\Category.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shop\\Category.cshtml",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Shop\\Category.cshtml",
+              "RelativeToolTip": "Views\\Shop\\Category.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-19T08:20:11.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Workouts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Workouts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Workouts\\Index.cshtml",
+              "RelativeToolTip": "Views\\Workouts\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T12:44:43.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Workouts\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Workouts\\Details.cshtml",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Workouts\\Details.cshtml",
+              "RelativeToolTip": "Views\\Workouts\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T12:13:19.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-18T02:33:39.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-18T02:33:37.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Products\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Products\\Edit.cshtml",
               "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Products\\Edit.cshtml",
               "RelativeToolTip": "Views\\Products\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-03T20:25:01.763Z"
+              "WhenOpened": "2026-03-03T20:25:01.763Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 23,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Products\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Products\\Details.cshtml",
               "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Products\\Details.cshtml",
               "RelativeToolTip": "Views\\Products\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-03T20:26:04.105Z"
+              "WhenOpened": "2026-03-03T20:26:04.105Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Repositories\\IProductRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Repositories\\IProductRepository.cs",
-              "RelativeToolTip": "Repositories\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T20:10:05.391Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 24,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Products\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Products\\Delete.cshtml",
               "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Products\\Delete.cshtml",
               "RelativeToolTip": "Views\\Products\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-03T20:26:48.075Z"
+              "WhenOpened": "2026-03-03T20:26:48.075Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-03T20:24:15.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-18T02:32:54.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Doctor.cshtml",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Healthcare\\Doctor.cshtml",
+              "RelativeDocumentMoniker": "Views\\Healthcare\\Doctor.cshtml",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Healthcare\\Doctor.cshtml",
+              "RelativeToolTip": "Views\\Healthcare\\Doctor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T21:28:01.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-03T20:22:54.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -370,71 +566,12 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAC8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-03T20:27:57.663Z"
+              "WhenOpened": "2026-03-03T20:27:57.663Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Products\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Products\\Create.cshtml",
-              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Products\\Create.cshtml",
-              "RelativeToolTip": "Views\\Products\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-03T20:24:15.238Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
-              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "Views\\Products\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-03T20:22:54.158Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-19T08:17:19.246Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T20:20:47.765Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "InMemoryProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Repositories\\InMemoryProductRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\InMemoryProductRepository.cs",
-              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Repositories\\InMemoryProductRepository.cs",
-              "RelativeToolTip": "Repositories\\InMemoryProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T20:16:42.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "Appointment.cshtml",
               "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Healthcare\\Appointment.cshtml",
               "RelativeDocumentMoniker": "Views\\Healthcare\\Appointment.cshtml",
@@ -442,11 +579,220 @@
               "RelativeToolTip": "Views\\Healthcare\\Appointment.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-19T08:40:07.986Z"
+              "WhenOpened": "2026-02-19T08:40:07.986Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
+              "Title": "UserInfo.cshtml",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Demo\\UserInfo.cshtml",
+              "RelativeDocumentMoniker": "Views\\Demo\\UserInfo.cshtml",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Demo\\UserInfo.cshtml",
+              "RelativeToolTip": "Views\\Demo\\UserInfo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-19T08:18:25.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ShowView.cshtml",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Demo\\ShowView.cshtml",
+              "RelativeDocumentMoniker": "Views\\Demo\\ShowView.cshtml",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Demo\\ShowView.cshtml",
+              "RelativeToolTip": "Views\\Demo\\ShowView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-18T19:47:09.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IWorkoutRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Repositories\\IWorkoutRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IWorkoutRepository.cs",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Repositories\\IWorkoutRepository.cs",
+              "RelativeToolTip": "Repositories\\IWorkoutRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T12:26:38.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T20:10:05.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-19T08:25:11.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "InMemoryProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Repositories\\InMemoryProductRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\InMemoryProductRepository.cs",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Repositories\\InMemoryProductRepository.cs",
+              "RelativeToolTip": "Repositories\\InMemoryProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T20:16:42.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Workout.cs",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Models\\Workout.cs",
+              "RelativeDocumentMoniker": "Models\\Workout.cs",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Models\\Workout.cs",
+              "RelativeToolTip": "Models\\Workout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T12:12:43.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T20:08:53.917Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T12:19:41.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Models\\Doctor.cs",
+              "RelativeToolTip": "Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T12:19:39.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "WorkoutsController.cs",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Controllers\\WorkoutsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WorkoutsController.cs",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Controllers\\WorkoutsController.cs",
+              "RelativeToolTip": "Controllers\\WorkoutsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T02:31:59.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T20:20:47.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T08:17:19.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "HealthcareController.cs",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Controllers\\HealthcareController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HealthcareController.cs",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Controllers\\HealthcareController.cs",
+              "RelativeToolTip": "Controllers\\HealthcareController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T21:41:14.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DemoController.cs",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "Controllers\\DemoController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T19:26:37.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "Controllers\\ShopController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T20:41:36.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
               "Title": "Doctors.cshtml",
               "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Healthcare\\Doctors.cshtml",
               "RelativeDocumentMoniker": "Views\\Healthcare\\Doctors.cshtml",
@@ -458,19 +804,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "ShopController.cs",
-              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Controllers\\ShopController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ShopController.cs",
-              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Controllers\\ShopController.cs",
-              "RelativeToolTip": "Controllers\\ShopController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T20:41:36.204Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 46,
               "Title": "Services.cshtml",
               "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Healthcare\\Services.cshtml",
               "RelativeDocumentMoniker": "Views\\Healthcare\\Services.cshtml",
@@ -482,103 +816,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "HealthcareController.cs",
-              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Controllers\\HealthcareController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HealthcareController.cs",
-              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Controllers\\HealthcareController.cs",
-              "RelativeToolTip": "Controllers\\HealthcareController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T21:41:14.444Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Doctor.cshtml",
-              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Healthcare\\Doctor.cshtml",
-              "RelativeDocumentMoniker": "Views\\Healthcare\\Doctor.cshtml",
-              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Healthcare\\Doctor.cshtml",
-              "RelativeToolTip": "Views\\Healthcare\\Doctor.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-18T21:28:01.207Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "UserInfo.cshtml",
-              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Demo\\UserInfo.cshtml",
-              "RelativeDocumentMoniker": "Views\\Demo\\UserInfo.cshtml",
-              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Demo\\UserInfo.cshtml",
-              "RelativeToolTip": "Views\\Demo\\UserInfo.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-19T08:18:25.525Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-19T08:25:11.512Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Category.cshtml",
-              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Shop\\Category.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shop\\Category.cshtml",
-              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Shop\\Category.cshtml",
-              "RelativeToolTip": "Views\\Shop\\Category.cshtml",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-19T08:20:11.25Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Shop\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shop\\Index.cshtml",
-              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Shop\\Index.cshtml",
-              "RelativeToolTip": "Views\\Shop\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-19T08:20:12.272Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "ProductDetails.cshtml",
-              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Shop\\ProductDetails.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shop\\ProductDetails.cshtml",
-              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Shop\\ProductDetails.cshtml",
-              "RelativeToolTip": "Views\\Shop\\ProductDetails.cshtml",
-              "ViewState": "AgIAALoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-19T08:20:28.92Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ShowView.cshtml",
-              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Demo\\ShowView.cshtml",
-              "RelativeDocumentMoniker": "Views\\Demo\\ShowView.cshtml",
-              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Views\\Demo\\ShowView.cshtml",
-              "RelativeToolTip": "Views\\Demo\\ShowView.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-02-18T19:47:09.219Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 47,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -587,18 +825,6 @@
               "ViewState": "AgIAAA8AAAAAAAAAAAAAACMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-02-18T19:36:15.973Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "DemoController.cs",
-              "DocumentMoniker": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Controllers\\DemoController.cs",
-              "RelativeDocumentMoniker": "Controllers\\DemoController.cs",
-              "ToolTip": "C:\\Users\\BloodyDoc21\\source\\trpo\\1\\laba1\\Controllers\\DemoController.cs",
-              "RelativeToolTip": "Controllers\\DemoController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-18T19:26:37.498Z"
             }
           ]
         }

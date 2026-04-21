@@ -1,7 +1,7 @@
 using System.Collections.Generic;
-using MvcLab1.Models; // Добавить, чтобы видел Product
+using laba1.Models; // Добавить, чтобы видел Product
 
-namespace MvcLab1.Repositories
+namespace laba1.Repositories
 {
     public interface IProductRepository
     {
