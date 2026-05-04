@@ -43,5 +43,56 @@ namespace laba1.Repositories
                 _context.SaveChanges();
             }
         }
+
+        public IEnumerable<Workout> GetByDuration(int min, int max)
+        {
+            return _context.Workouts
+                .Where(w => w.Duration >= min && w.Duration <= max)
+                .ToList();
+        }
+
+        public IEnumerable<Workout> GetTopCalories(int count)
+        {
+            return _context.Workouts
+                .OrderByDescending(w => w.Calories)
+                .Take(count)
+                .ToList();
+        }
+
+        public IEnumerable<Workout> Search(string term)
+        {
+            return _context.Workouts
+                .Where(w => w.Name.Contains(term) || w.Type.Contains(term))
+                .ToList();
+        }
+
+        public double GetAverageCalories()
+        {
+            return _context.Workouts.Average(w => w.Calories);
+        }
+
+        public IEnumerable<IGrouping<string, Workout>> GroupByType()
+        {
+            return _context.Workouts
+                .GroupBy(w => w.Type)
+                .ToList();
+        }
+
+
+
+        public IEnumerable<Workout> GetWithPagination(int page, int pageSize)
+        {
+            return _context.Workouts
+                .OrderBy(w => w.Id)
+                .Skip((page - 1) * pageSize)
+                .Take(pageSize)
+                .ToList();
+        }
+
+        public int GetTotalPages(int pageSize)
+        {
+            var count = _context.Workouts.Count();
+            return (int)Math.Ceiling(count / (double)pageSize);
+        }
     }
 }

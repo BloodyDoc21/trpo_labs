@@ -1,0 +1,14 @@
+﻿@model IEnumerable<IGrouping<string, laba1.Models.Workout>>
+
+<h2>Группировка по типу</h2>
+
+@foreach (var group in Model)
+{
+    <h4>@group.Key</h4>
+    <ul>
+        @foreach (var w in group)
+        {
+            <li>@w.Name (@w.Calories кал)</li>
+        }
+    </ul>
+}

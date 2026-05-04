@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,39 +19,53 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                    <ul class="navbar-nav flex-grow-1" style="flex-direction: row; gap: 20px;">
+
+                        <!-- Products -->
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+                                LINQ Products
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" asp-controller="Products" asp-action="ByPrice">Фильтр по цене</a></li>
+                                <li><a class="dropdown-item" asp-controller="Products" asp-action="TopExpensive">Топ дорогих</a></li>
+                                <li><a class="dropdown-item" asp-controller="Products" asp-action="Search">Поиск</a></li>
+                                <li><a class="dropdown-item" asp-controller="Products" asp-action="GroupedByCategory">Группировка</a></li>
+                                <li><a class="dropdown-item" asp-controller="Products" asp-action="Statistics">Статистика</a></li>
+                                <li><a class="dropdown-item" asp-controller="Products" asp-action="Paginated">Пагинация</a></li>
+                            </ul>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+
+                        <!-- Workouts -->
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">
+                                LINQ Workouts
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" asp-controller="Workouts" asp-action="ByDuration">По длительности</a></li>
+                                <li><a class="dropdown-item" asp-controller="Workouts" asp-action="TopCalories">Топ калорий</a></li>
+                                <li><a class="dropdown-item" asp-controller="Workouts" asp-action="Search">Поиск</a></li>
+                                <li><a class="dropdown-item" asp-controller="Workouts" asp-action="Grouped">Группировка по типу</a></li>
+                                <li><a class="dropdown-item" asp-controller="Workouts" asp-action="Statistics">Статистика</a></li>
+                                <li><a class="dropdown-item" asp-controller="Workouts" asp-action="Paginated">Пагинация</a></li>
+                            </ul>
+                        </li>
+
+                    </ul>
+
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" asp-controller="Clients" asp-action="ByDate">По дате</a></li>
+                                <li><a class="dropdown-item" asp-controller="Clients" asp-action="Oldest">Старые</a></li>
+                                <li><a class="dropdown-item" asp-controller="Clients" asp-action="Search">Поиск</a></li>
+                                <li><a class="dropdown-item" asp-controller="Clients" asp-action="GroupedByActivity">Группировка</a></li>
+                                <li><a class="dropdown-item" asp-controller="Clients" asp-action="Paginated">Пагинация</a></li>
+                            </ul>
                         </li>
                     </ul>
                 </div>
             </div>
         </nav>
-        <ul class="navbar-nav flex-grow-1" style="flex-direction: row; gap: 20px;">
-            <li class="nav-item">
-                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">
-                    Home
-                </a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">
-                    Privacy
-                </a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link text-dark" asp-area="" asp-controller="Products" asp-action="Index">
-                    Товары
-                </a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link text-dark" asp-area="" asp-controller="Workouts" asp-action="Index">
-                    Тренировки
-                </a>
-            </li>
-        </ul>
     </header>
     <div class="container">
         <main role="main" class="pb-3">

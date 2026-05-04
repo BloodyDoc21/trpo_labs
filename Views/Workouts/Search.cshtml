@@ -1,0 +1,22 @@
+﻿@model IEnumerable<laba1.Models.Workout>
+
+<h2>Поиск</h2>
+
+<form method="get" asp-action="Search" asp-controller="Workouts" class="mb-3">
+    <input type="text" name="term" value="@ViewBag.Term" placeholder="Поиск..." />
+    <button type="submit">Найти</button>
+</form>
+
+@if (!Model.Any())
+{
+    <p>Ничего не найдено</p>
+}
+else
+{
+    <ul>
+        @foreach (var w in Model)
+        {
+            <li>@w.Name (@w.Type)</li>
+        }
+    </ul>
+}

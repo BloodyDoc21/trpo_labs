@@ -83,5 +83,60 @@ namespace laba1.Controllers
             TempData["SuccessMessage"] = "Тренировка удалена!";
             return RedirectToAction(nameof(Index));
         }
+
+        public IActionResult ByDuration(int min, int max)
+        {
+            var data = _repository.GetByDuration(min, max);
+
+            ViewBag.Min = min;
+            ViewBag.Max = max;
+
+            return View(data);
+        }
+
+        public IActionResult TopCalories(int count = 5)
+        {
+            var data = _repository.GetTopCalories(count);
+
+            ViewBag.Count = count;
+
+            return View(data);
+        }
+
+        public IActionResult Search(string term)
+        {
+            if (string.IsNullOrWhiteSpace(term))
+                return View(new List<Workout>()); // ❗ НЕ редирект
+
+            var data = _repository.Search(term);
+            ViewBag.Term = term;
+
+            return View(data);
+        }
+
+        public IActionResult Statistics()
+        {
+            var avg = _repository.GetAverageCalories();
+            return View(avg);
+        }
+
+        public IActionResult Grouped()
+        {
+            var data = _repository.GroupByType();
+            return View(data);
+        }
+
+        public IActionResult Paginated(int page = 1)
+        {
+            int pageSize = 5;
+
+            var data = _repository.GetWithPagination(page, pageSize);
+            var totalPages = _repository.GetTotalPages(pageSize);
+
+            ViewBag.CurrentPage = page;
+            ViewBag.TotalPages = totalPages;
+
+            return View(data);
+        }
     }
 }

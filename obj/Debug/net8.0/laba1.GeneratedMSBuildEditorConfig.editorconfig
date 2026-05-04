@@ -54,6 +54,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/BloodyDoc21/source/trpo/1/laba1/Views/Products/ByPrice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQnlQcmljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/BloodyDoc21/source/trpo/1/laba1/Views/Products/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -70,8 +74,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/BloodyDoc21/source/trpo/1/laba1/Views/Products/GroupedByCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcR3JvdXBlZEJ5Q2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/BloodyDoc21/source/trpo/1/laba1/Views/Products/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BloodyDoc21/source/trpo/1/laba1/Views/Products/Paginated.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcUGFnaW5hdGVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BloodyDoc21/source/trpo/1/laba1/Views/Products/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcU2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BloodyDoc21/source/trpo/1/laba1/Views/Products/Statistics.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcU3RhdGlzdGljcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BloodyDoc21/source/trpo/1/laba1/Views/Products/TopExpensive.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdHNcVG9wRXhwZW5zaXZlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/BloodyDoc21/source/trpo/1/laba1/Views/Shared/Error.cshtml]
@@ -94,6 +118,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvcFxQcm9kdWN0RGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/BloodyDoc21/source/trpo/1/laba1/Views/Workouts/ByDuration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya291dHNcQnlEdXJhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/BloodyDoc21/source/trpo/1/laba1/Views/Workouts/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya291dHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -110,8 +138,28 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya291dHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/BloodyDoc21/source/trpo/1/laba1/Views/Workouts/Grouped.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya291dHNcR3JvdXBlZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/BloodyDoc21/source/trpo/1/laba1/Views/Workouts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya291dHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BloodyDoc21/source/trpo/1/laba1/Views/Workouts/Paginated.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya291dHNcUGFnaW5hdGVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BloodyDoc21/source/trpo/1/laba1/Views/Workouts/Search.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya291dHNcU2VhcmNoLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BloodyDoc21/source/trpo/1/laba1/Views/Workouts/Statistics.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya291dHNcU3RhdGlzdGljcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/BloodyDoc21/source/trpo/1/laba1/Views/Workouts/TopCalories.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV29ya291dHNcVG9wQ2Fsb3JpZXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/BloodyDoc21/source/trpo/1/laba1/Views/_ViewImports.cshtml]

@@ -1,0 +1,35 @@
+﻿@model IEnumerable<laba1.Models.Workout>
+
+<h2>Фильтр по длительности</h2>
+
+<form method="get" class="mb-3">
+    <input type="number" name="min" placeholder="Мин" value="@ViewBag.Min" />
+    <input type="number" name="max" placeholder="Макс" value="@ViewBag.Max" />
+    <button type="submit">Фильтр</button>
+</form>
+
+@if (!Model.Any())
+{
+    <p>Нет данных</p>
+}
+else
+{
+    <table class="table">
+        <tr>
+            <th>Название</th>
+            <th>Длительность</th>
+            <th>Калории</th>
+            <th>Тип</th>
+        </tr>
+
+        @foreach (var w in Model)
+        {
+            <tr>
+                <td>@w.Name</td>
+                <td>@w.Duration</td>
+                <td>@w.Calories</td>
+                <td>@w.Type</td>
+            </tr>
+        }
+    </table>
+}

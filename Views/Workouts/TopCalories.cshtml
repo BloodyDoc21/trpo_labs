@@ -1,0 +1,25 @@
+﻿@model IEnumerable<laba1.Models.Workout>
+
+<h2>Топ по калориям</h2>
+
+@if (!Model.Any())
+{
+    <p>Нет данных</p>
+}
+else
+{
+    <table class="table">
+        <tr>
+            <th>Название</th>
+            <th>Калории</th>
+        </tr>
+
+        @foreach (var w in Model)
+        {
+            <tr>
+                <td>@w.Name</td>
+                <td>@w.Calories</td>
+            </tr>
+        }
+    </table>
+}
